@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/roma321m/roma321m/blob/main/Square%20Video%20Post%201080x1080%20px.gif)](https://roma321m.io)
+[![MasterHead](https://raw.githubusercontent.com/roma321m/roma321m/main/Roman%20Michailov.gif)](https://roma321m.io)
 <h1 align="center">Hi 👋, I'm Roman Michailov</h1>
 <h3 align="center">Software Engineering Student / Mobile Developer / Android / IOS</h3>
 
