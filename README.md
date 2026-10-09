@@ -19,8 +19,8 @@
 - 💼 Mobile Engineer at **[Pendo](https://www.pendo.io)**, working across the **entire mobile stack**
 - 📱 Native **iOS** (UIKit & SwiftUI) and native **Android** (XML Views & Jetpack Compose)
 - 🌍 Cross-platform with **React Native**, **Flutter**, **.NET MAUI** and **Kotlin Multiplatform / Compose Multiplatform**
-- 🧩 I enjoy the glue between platforms — bridging native APIs, keeping behavior consistent across frameworks, and shipping code that runs everywhere
-- 💬 Ask me about anything mobile — native, cross-platform, or how they all fit together
+- 🧩 I enjoy the glue between platforms: bridging native APIs, keeping behavior consistent across frameworks, and shipping code that runs everywhere
+- 💬 Ask me about anything mobile: native, cross-platform, or how they all fit together
 
 ## 🛠️ Mobile stack
 
